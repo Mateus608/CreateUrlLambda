@@ -1,4 +1,5 @@
+```json
 {
-	"expirationTime" : "1732495706",
-	"originalUrl" : "https://matlinux.de/index.html"
+	"expirationTime": "1732495706",
+	"originalUrl": "https://matlinux.de/index.html"
 }
